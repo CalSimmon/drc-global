@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{oLDe:function(e,t,a){"use strict";a.r(t);a("q1tI");var n=a("eIJk"),c=a("B7F5"),i=a("hm0s"),s=a("H8eV"),o=a("qKvR");t.default=function(){return Object(o.jsx)(c.a,{activeTab:n.a.WhitePaper,lang:"zh"},Object(o.jsx)(s.a,{title:"白皮书",description:"数字储备货币（DRC）白皮书涵盖了DRC产生的基本原理，DRC的未来以及其经济模型和分布。",lang:"zh"}),Object(o.jsx)(i.a,{lang:"zh"}))}}}]);
+//# sourceMappingURL=component---src-pages-zh-white-paper-1-tsx-b78ad6d113b24fd1c161.js.map

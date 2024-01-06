@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{B7gm:function(e,t,i){"use strict";i.r(t);i("q1tI");var a=i("eIJk"),n=i("B7F5"),s=i("hm0s"),o=i("H8eV"),r=i("qKvR");t.default=function(){return Object(r.jsx)(n.a,{activeTab:a.a.WhitePaper},Object(r.jsx)(o.a,{title:"White paper",description:"The Whitepaper covers the rationale for DRC’s genesis, the future of DRC, and its economic model and distribution."}),Object(r.jsx)(s.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-white-paper-1-tsx-96cd3d5cb2b9763be280.js.map

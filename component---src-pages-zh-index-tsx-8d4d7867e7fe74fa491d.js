@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{"+pwL":function(e,t,a){"use strict";a.r(t);a("q1tI");var n=a("eIJk"),c=a("B7F5"),i=a("mWom"),o=a("H8eV"),s=a("qKvR");t.default=function(){return Object(s.jsx)(c.a,{activeTab:n.a.Home,lang:"zh"},Object(s.jsx)(o.a,{title:"首页",description:"数字储备货币（DRC）旨在成为去中心化的数字价值储藏，其供应有限且通货膨胀率为零。",lang:"zh"}),Object(s.jsx)(i.a,{lang:"zh"}))}}}]);
+//# sourceMappingURL=component---src-pages-zh-index-tsx-8d4d7867e7fe74fa491d.js.map
