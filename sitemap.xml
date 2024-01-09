@@ -4,13 +4,13 @@
 <url> <loc>https://drcglobal.org/drc-global/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://drcglobal.org/drc-global/resources/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://drcglobal.org/drc-global/white-paper-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://drcglobal.org/drc-global/zh/faqs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://drcglobal.org/drc-global/zh/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://drcglobal.org/drc-global/zh/resources/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://drcglobal.org/drc-global/zh/white-paper-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://drcglobal.org/drc-global/platform/dr-vault-s1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://drcglobal.org/drc-global/platform/dr-vault-s2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://drcglobal.org/drc-global/platform/dr-vault-s3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://drcglobal.org/drc-global/platform/drc-vault/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://drcglobal.org/drc-global/platform/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://drcglobal.org/drc-global/zh/faqs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://drcglobal.org/drc-global/zh/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://drcglobal.org/drc-global/zh/resources/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://drcglobal.org/drc-global/zh/white-paper-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
